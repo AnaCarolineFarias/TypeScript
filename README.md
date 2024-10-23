@@ -8,7 +8,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 
 ## Sobre o Projeto
 
-Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em JavaScript]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
+Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em TypeScript]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
 
 ### Tecnologias Utilizadas
 
