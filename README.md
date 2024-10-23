@@ -9,6 +9,7 @@ Meu nome é **Ana Caroline de Oliveira Farias**. Sou uma desenvolvedora apaixona
 ## Sobre o Projeto
 
 Este repositório contém [Estudos e pequenos desenvolvimentos que fiz e estou fazendo em TypeScript]. A ideia principal é [Mostrar minhas habilidades nesta linguagem, mostrar que estou indo atrás do conhecimento e aprimorando ela]. 
+![Logo TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
 
 ### Tecnologias Utilizadas
 
